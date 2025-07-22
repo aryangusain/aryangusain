@@ -1,25 +1,28 @@
-# 👋 Hello, I'm Aryan Gusain!
-
-I'm a passionate Computer Science and Engineering student currently navigating the exciting world of technology. Welcome to my corner of GitHub, where I blend curiosity with code to create meaningful projects.
+# 👋 Hi, I'm Aryan Gusain!
 
 ## 🚀 What I'm Up To
-
-- 🎓 Pursuing my B.Tech in Computer Science and Engineering.
-- 💻 Exploring the realms of web development, machine learning and problem-solving.
+- 💻 Building projects to solidify my web development skills.
 - 🌱 Learning and growing with every line of code.
 
 ## 🔧 Tech Stack
 
-- Languages: C, C++, Python, Java, Javascript, Typescript
-- Tools: React, Nodejs, Expressjs, MongoDB, MySQL
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-2C9AB7?style=for-the-badge&logo=websockets&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
 
 ## 🌐 Connect with Me
 
-- [Twitter](https://twitter.com/YourTwitterHandle) 🐦
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) 💼
-
-## 📬 Let's Collaborate!
-
-I'm always open to collaboration and exploration. If you share a passion for tech and innovation, let's connect and create something amazing together!
-
-<!-- Feel free to add any additional sections, badges, or details that showcase your GitHub journey! -->
+- [Twitter](https://twitter.com/aryangusain_) 🐦
+- [LinkedIn](https://www.linkedin.com/in/aryangusain) 💼
