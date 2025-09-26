@@ -58,4 +58,4 @@
 <div align="center">
 <h2 align="center">⚡ My Badges ⚡</h2>
 
-[![An image of @aryangusain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@aryangusain#)](https://www.holopin.io/@aryangusain#)
+[![An image of @aryangusain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryangusain)](https://holopin.io/@aryangusain)
